@@ -15,3 +15,9 @@ date: 2022-01-22
 last_modified_at: 2022-01-22
 ---
 # vscode로 포스팅 테스트 중입니다
+#### 마크다운 문법으로 블로그 작성 및 미리보기.
+#### CMD 실행
+#### D:\02. develop\00. git\JunYoung-Han.github.io>bundle exec jekyll serve 
+#### http://127.0.0.1:4000  접속해서 변경내용 확인.
+#### git 커밋 및 푸시
+

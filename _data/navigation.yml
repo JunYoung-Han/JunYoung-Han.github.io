@@ -1,13 +1,13 @@
 # main links
 main:
-  #- title: "Home"
-  #  url: "/"
+  - title: "Home"
+    url: https://junyoung-han.github.io/
   - title: "Introduce"
-    url: /about/
-  - title: "Category"
-    url: "/categories/"
-  - title: "Tags"
-    url: /tags/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Category"
+  #  url: "/categories/"
+  #- title: "Tags"
+  #  url: /tags/
 
 # # main links
 # main:

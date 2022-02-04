@@ -21,6 +21,6 @@ last_modified_at: 2022-01-22
 #### http://127.0.0.1:4000  접속해서 변경내용 확인.
 #### git 커밋 및 푸시t
 
-{% include figure image_path="/assets/images/2021me.jpg" alt="Loading Error" caption="Caption Here" %}
+<!-- {% include figure image_path="/assets/images/2021me.jpg" alt="Loading Error" caption="Caption Here" %} -->
 {% include video id="XsxDH4HcOWA" provider="youtube" %}
 

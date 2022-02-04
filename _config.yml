@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Jun0_Han"
   avatar           : assets/images/2021me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**기록이 자산!!**<br>매일 공부하고 있습니다.<br>소통을 좋아합니다."
+  bio              : "**기록이 자산!!**<br>Test<br>Test."
                      # biography의 약칭으로, 자기소개를 적으시면 됩니다.
                      # 줄바꿈은 <br>로 굵은 글씨는 **글씨** 로 표기해주세요. 
   location         : "Republic of Korea"
